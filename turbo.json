@@ -19,5 +19,9 @@
     ".env",
     ".env.local",
     "tsconfig.json"
-  ]
+  ],
+  {
+  "scripts": {
+    "yarn": "yarn install"
+  }
 }
